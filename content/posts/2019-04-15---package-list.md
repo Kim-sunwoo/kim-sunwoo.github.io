@@ -1,6 +1,6 @@
 ---
-title: package manager로 설치한 프로그램 목록 확인하기
-date: "2019-04-15T22:40:32.169Z"
+title: git push 
+date: "2019-12-05T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "/posts/package-list"
@@ -15,10 +15,11 @@ tags:
 
 #### brew
 ```
-brew list
+brew list where am i?
 ```
 
 #### npm
 ```
-npm list -g --depth=0
+npm list -g --depth=0    
+here we go
 ```

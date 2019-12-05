@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  url: 'https://yeri-kim.github.io/',
-  title: 'Blog by Yeri',
+  url: 'https://Kim-sunwoo.github.io/',
+  title: 'Blog by Sunwoo',
   subtitle: 'hello world',
   copyright: '',
   disqusShortname: 'github-io-12',
@@ -26,13 +26,13 @@ module.exports = {
     */
   ],
   author: {
-    name: 'Yeri',
+    name: 'Sunwoo',
     photo: '/profile.png',
     bio: '',
     contacts: {
-      email: 'yerikim1028@gmail.com',
-      github: 'Yeri-Kim',
-      linkedIn: 'yeri-kim-1028'
+      email: 'kswoo0627@gmail.com',
+      github: 'Kim-sunwoo',
+      linkedIn: ''
     }
   }
 };
